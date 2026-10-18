@@ -1,0 +1,344 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - img [ref=e7]
+        - generic [ref=e10]:
+          - generic [ref=e11]: 배움의 온도
+          - generic [ref=e12]: LEARNING REFLECTION
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - text: 교사로 입장 중 ·
+          - strong [ref=e15]: 김선생님
+        - button "나가기" [ref=e16] [cursor=pointer]
+      - generic [ref=e17]: 학습 공간
+      - navigation [ref=e18]:
+        - button "수업 돌아보기" [ref=e19] [cursor=pointer]:
+          - img [ref=e20]
+          - text: 수업 돌아보기
+        - button "학생 성찰 일기 3" [ref=e25] [cursor=pointer]:
+          - img [ref=e26]
+          - text: 학생 성찰 일기
+          - generic [ref=e29]: "3"
+        - button "성찰 기록" [ref=e30] [cursor=pointer]:
+          - img [ref=e31]
+          - text: 성찰 기록
+        - button "학급 코드 관리" [ref=e34] [cursor=pointer]:
+          - img [ref=e35]
+          - text: 학급 코드 관리
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]: SUNDAY · OCT 18
+          - strong [ref=e41]: 오늘도 한 뼘 자랐어요
+          - paragraph [ref=e42]:
+            - text: 매일의 작은 발견이
+            - text: 내일의 배움으로 이어집니다.
+        - generic [ref=e43]:
+          - generic [ref=e44]: 김쌤
+          - generic [ref=e45]:
+            - strong [ref=e46]: 김선생님
+            - generic [ref=e47]: 담임 교사 · 전체 학급
+    - main [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - text: 배움의 온도
+          - generic [ref=e51]: /
+          - strong [ref=e52]: 수업 돌아보기
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - img [ref=e55]
+            - text: 2026년 10월 18일 일요일
+          - button "알림" [ref=e58] [cursor=pointer]:
+            - img [ref=e59]
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - generic [ref=e64]: CLASS REFLECTION
+            - heading "수업의 순간을 돌아봐요" [level=1] [ref=e65]
+            - paragraph [ref=e66]: 학생들의 배움 과정을 살펴보고, 다음 수업으로 이어지는 피드백을 전해 보세요.
+          - img [ref=e68]
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]: 선택 범위 학생
+            - generic [ref=e74]: 6명
+            - generic [ref=e75]: 전체 학급
+          - generic [ref=e76]:
+            - generic [ref=e77]: 피드백 확인 대기
+            - generic [ref=e78]: 2명
+            - generic [ref=e79]: 선택 범위 기준
+          - generic [ref=e80]:
+            - generic [ref=e81]: 성찰 일기 확인 대기
+            - generic [ref=e82]: 3명
+            - generic [ref=e83]: 선택 범위 기준
+        - generic [ref=e84]:
+          - generic [ref=e85]: 성장 랭킹 학급
+          - combobox "성장 랭킹 학급" [ref=e86]:
+            - option "전체 학급" [selected]
+            - option "2학년 3반"
+            - option "2학년 4반"
+          - generic [ref=e87]: 학생 목록과 랭킹에 함께 적용돼요
+          - button "성찰 기록 CSV 내려받기" [ref=e88] [cursor=pointer]
+        - generic [ref=e89]:
+          - button "하늘 김하늘 2학년 3반 · 확인 대기 · 일기 미확인" [ref=e90] [cursor=pointer]:
+            - generic [ref=e91]: 하늘
+            - generic [ref=e92]:
+              - strong [ref=e93]: 김하늘
+              - generic [ref=e94]: 2학년 3반 · 확인 대기 · 일기 미확인
+          - button "도윤 박도윤 2학년 3반 · 피드백 확인 · 일기 확인" [ref=e95] [cursor=pointer]:
+            - generic [ref=e96]: 도윤
+            - generic [ref=e97]:
+              - strong [ref=e98]: 박도윤
+              - generic [ref=e99]: 2학년 3반 · 피드백 확인 · 일기 확인
+          - button "서윤 이서윤 2학년 3반 · 확인 대기 · 일기 미확인" [ref=e100] [cursor=pointer]:
+            - generic [ref=e101]: 서윤
+            - generic [ref=e102]:
+              - strong [ref=e103]: 이서윤
+              - generic [ref=e104]: 2학년 3반 · 확인 대기 · 일기 미확인
+          - button "민재 정민재 2학년 3반 · 피드백 확인 · 일기 미확인" [ref=e105] [cursor=pointer]:
+            - generic [ref=e106]: 민재
+            - generic [ref=e107]:
+              - strong [ref=e108]: 정민재
+              - generic [ref=e109]: 2학년 3반 · 피드백 확인 · 일기 미확인
+          - button "서아 윤서아 2학년 4반 · 피드백 확인 · 일기 확인" [ref=e110] [cursor=pointer]:
+            - generic [ref=e111]: 서아
+            - generic [ref=e112]:
+              - strong [ref=e113]: 윤서아
+              - generic [ref=e114]: 2학년 4반 · 피드백 확인 · 일기 확인
+          - button "준호 이준호 2학년 4반 · 피드백 확인 · 일기 확인" [ref=e115] [cursor=pointer]:
+            - generic [ref=e116]: 준호
+            - generic [ref=e117]:
+              - strong [ref=e118]: 이준호
+              - generic [ref=e119]: 2학년 4반 · 피드백 확인 · 일기 확인
+        - generic [ref=e120]:
+          - generic [ref=e121]:
+            - generic [ref=e122]:
+              - generic [ref=e123]:
+                - generic [ref=e124]:
+                  - generic [ref=e125]: LESSON OBSERVATION
+                  - heading "김하늘 학생의 수업 관찰" [level=2] [ref=e126]
+                  - generic [ref=e127]: 2학년 · 3반 · 수학 · 분모가 다른 분수
+                - generic [ref=e128]: 수업 기록
+              - generic [ref=e129]: 수업 중 관찰한 내용
+              - textbox "수업 중 관찰한 내용" [ref=e131]:
+                - /placeholder: 학생이 보인 참여, 이해 정도, 인상 깊은 순간을 적어주세요.
+                - text: 분모가 다른 분수의 통분 과정을 스스로 설명함. 처음에는 공통분모를 찾는 데 시간이 걸렸지만, 그림으로 바꾸어 생각한 뒤 풀이에 자신감을 보임. 마지막 문제에서는 친구에게 풀이 방법을 설명해 줌.
+              - generic [ref=e132]:
+                - button "AI 분석 초안 만들기" [ref=e133] [cursor=pointer]:
+                  - img [ref=e134]
+                  - text: AI 분석 초안 만들기
+                - generic [ref=e137]: 관찰 내용을 바탕으로 피드백 초안을 제안해요
+              - separator [ref=e138]
+              - generic [ref=e139]: 학생에게 전할 피드백
+              - textbox "학생에게 전할 피드백" [ref=e140]:
+                - /placeholder: AI 분석 초안을 만들거나 직접 피드백을 작성하세요.
+                - text: 오늘은 통분이 낯설어도 그림으로 바꾸어 생각하며 끝까지 해결해 냈어요. 풀이를 친구에게 설명한 모습에서 개념을 자기 것으로 만들고 있다는 게 느껴졌습니다. 다음 시간에는 공통분모를 조금 더 빠르게 찾는 연습을 함께 해봐요.
+              - generic [ref=e141]:
+                - button "피드백 보내기" [ref=e142] [cursor=pointer]:
+                  - img [ref=e143]
+                  - text: 피드백 보내기
+                - generic [ref=e146]: 학생 확인 대기 중
+            - generic [ref=e147]:
+              - generic [ref=e148]:
+                - generic [ref=e149]:
+                  - generic [ref=e150]: 수업 녹음과 돌아보기
+                  - generic [ref=e151]: 녹음하고 받아쓴 내용을 다음 수업 준비에 활용해요.
+                - generic [ref=e152]: 수업 기록
+              - generic [ref=e153]:
+                - button "수업 녹음 시작" [ref=e154] [cursor=pointer]
+                - generic [ref=e155]: 00:00
+              - paragraph [ref=e156]: 녹음 중 한국어 받아쓰기를 시도해요. 마이크 권한을 허용해 주세요.
+              - generic [ref=e157]: 수업 내용 받아쓰기 / 전사문
+              - textbox "수업 내용 받아쓰기 / 전사문" [ref=e158]:
+                - /placeholder: 녹음 중 인식된 내용이 여기에 적혀요. 자동 받아쓰기가 지원되지 않으면 직접 수업 내용을 입력해 주세요.
+              - button "잘한 점과 보완점 정리" [ref=e160] [cursor=pointer]
+              - paragraph [ref=e161]: 녹음 파일은 필요하면 내려받을 수 있고, 수업 전사문과 분석은 이 기기에 기록돼요.
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - generic [ref=e164]:
+                  - generic [ref=e165]: 저장한 수업 성찰
+                  - generic [ref=e166]: 전사문과 잘한 점·보완점·다음 수업 제안을 다시 볼 수 있어요.
+                - generic [ref=e167]: 0개
+              - generic [ref=e168]: 아직 저장한 수업 성찰이 없어요.
+            - generic [ref=e169]:
+              - generic [ref=e170]:
+                - generic [ref=e171]:
+                  - generic [ref=e172]: 김하늘 학생의 성찰 일기
+                  - generic [ref=e173]: 수학 과목으로 작성한 성찰 기록입니다.
+                - generic [ref=e174]: 확인 필요
+              - generic [ref=e175]:
+                - generic [ref=e176]:
+                  - generic [ref=e177]: 오늘 오후 1:42 · 수학
+                  - generic [ref=e178]: 뿌듯해요
+                - paragraph [ref=e179]: 처음에는 분모가 달라서 어떻게 해야 할지 헷갈렸다. 그림을 그려 보니까 같은 크기로 나누는 게 보여서 문제를 풀 수 있었다. 친구에게 설명할 때 내가 알고 있는 걸 다시 확인할 수 있어서 좋았다.
+              - generic [ref=e180]:
+                - button "일기 확인했어요" [ref=e181] [cursor=pointer]:
+                  - img [ref=e182]
+                  - text: 일기 확인했어요
+                - generic [ref=e185]: 확인하면 학생도 알 수 있어요
+              - group [ref=e186]:
+                - generic "1개 누적 성찰 기록 모두 보기" [ref=e187] [cursor=pointer]
+              - generic [ref=e188]:
+                - button "칭찬 스티커 발부" [ref=e189] [cursor=pointer]:
+                  - img [ref=e190]
+                  - text: 칭찬 스티커 발부
+                - generic [ref=e193]: 0개 발부 · 스티커 순위에 반영돼요
+          - complementary [ref=e194]:
+            - generic [ref=e195]:
+              - generic [ref=e196]:
+                - generic [ref=e197]: 새 성찰 일기의 기본 과목
+                - generic [ref=e198]: 기본 설정
+              - heading "정보" [level=3] [ref=e199]
+              - paragraph [ref=e200]: 학생이 성찰 일기를 시작할 때 먼저 선택돼요.
+              - generic [ref=e203]:
+                - generic [ref=e204]: 피드백 확인 현황
+                - generic [ref=e205]: 4 / 6명
+            - generic [ref=e206]:
+              - generic [ref=e207]:
+                - generic [ref=e208]:
+                  - generic [ref=e209]: 성찰 과목 관리
+                  - generic [ref=e210]: 기본 과목은 정보예요. 등록 과목은 학생 선택 목록에 보여요.
+                - generic [ref=e211]: 5개 과목
+              - generic [ref=e212]:
+                - text: 새 과목 이름
+                - generic [ref=e213]:
+                  - textbox "새 과목 이름" [ref=e214]:
+                    - /placeholder: "예: 음악"
+                  - button "과목 등록" [ref=e215] [cursor=pointer]
+                - alert [ref=e216]
+              - generic [ref=e217]:
+                - generic [ref=e218]: 정보
+                - generic [ref=e219]: 국어
+                - generic [ref=e220]: 과학
+                - generic [ref=e221]: 사회
+                - generic [ref=e222]: 수학
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - generic [ref=e225]:
+                  - generic [ref=e226]: 학급 접속 코드 관리
+                  - generic [ref=e227]: 코드를 등록하면 새 학생이 해당 반에 입장할 수 있어요.
+                - generic [ref=e228]: 2개 학급
+              - generic [ref=e229]:
+                - generic [ref=e230]:
+                  - generic [ref=e231]:
+                    - generic [ref=e232]: 학급 이름
+                    - textbox "학급 이름" [ref=e233]:
+                      - /placeholder: "예: 2학년 5반"
+                  - generic [ref=e234]:
+                    - generic [ref=e235]: 접속 코드
+                    - generic [ref=e236]:
+                      - textbox "접속 코드" [ref=e237]:
+                        - /placeholder: "예: HAPPY26"
+                      - button "자동 생성" [ref=e238] [cursor=pointer]
+                - button "학급 코드 등록" [ref=e239] [cursor=pointer]
+                - alert [ref=e240]
+              - generic [ref=e241]:
+                - button "2학년 3반 HAPPY24 · 4명 현황 보기" [ref=e242] [cursor=pointer]:
+                  - generic [ref=e243]:
+                    - strong [ref=e244]: 2학년 3반
+                    - generic [ref=e245]: HAPPY24 · 4명
+                  - generic [ref=e246]:
+                    - text: 현황 보기
+                    - img [ref=e247]
+                - button "2학년 4반 HAPPY25 · 2명 현황 보기" [ref=e249] [cursor=pointer]:
+                  - generic [ref=e250]:
+                    - strong [ref=e251]: 2학년 4반
+                    - generic [ref=e252]: HAPPY25 · 2명
+                  - generic [ref=e253]:
+                    - text: 현황 보기
+                    - img [ref=e254]
+            - generic [ref=e256]:
+              - generic [ref=e257]:
+                - generic [ref=e258]:
+                  - generic [ref=e259]: 전체 학급 성장 랭킹
+                  - generic [ref=e260]: 각 부문 1·2위 학생에게 보상이 주어져요. · 6명
+                - generic [ref=e261]: TOP 2 보상
+              - generic [ref=e262]:
+                - generic [ref=e263]:
+                  - generic [ref=e264]:
+                    - img [ref=e265]
+                    - text: 연속 성찰
+                  - paragraph [ref=e268]: 하루도 빠짐없이 쓴 기록
+                  - list [ref=e269]:
+                    - listitem [ref=e270]:
+                      - generic [ref=e271]: "1"
+                      - generic [ref=e272]: 김하늘
+                      - generic [ref=e273]: 1일
+                      - generic [ref=e274]: 보상 대상
+                    - listitem [ref=e275]:
+                      - generic [ref=e276]: "2"
+                      - generic [ref=e277]: 박도윤
+                      - generic [ref=e278]: 1일
+                      - generic [ref=e279]: 보상 대상
+                    - listitem [ref=e280]:
+                      - generic [ref=e281]: "3"
+                      - generic [ref=e282]: 윤서아
+                      - generic [ref=e283]: 1일
+                    - listitem [ref=e284]:
+                      - generic [ref=e285]: "4"
+                      - generic [ref=e286]: 이서윤
+                      - generic [ref=e287]: 1일
+                    - listitem [ref=e288]:
+                      - generic [ref=e289]: "5"
+                      - generic [ref=e290]: 이준호
+                      - generic [ref=e291]: 1일
+                    - listitem [ref=e292]:
+                      - generic [ref=e293]: "6"
+                      - generic [ref=e294]: 정민재
+                      - generic [ref=e295]: 1일
+                - generic [ref=e296]:
+                  - generic [ref=e297]:
+                    - img [ref=e298]
+                    - text: 칭찬 스티커
+                  - paragraph [ref=e301]: 선생님이 전한 칭찬 모으기
+                  - list [ref=e302]:
+                    - listitem [ref=e303]:
+                      - generic [ref=e304]: "1"
+                      - generic [ref=e305]: 윤서아
+                      - generic [ref=e306]: 2개
+                      - generic [ref=e307]: 보상 대상
+                    - listitem [ref=e308]:
+                      - generic [ref=e309]: "2"
+                      - generic [ref=e310]: 이준호
+                      - generic [ref=e311]: 1개
+                      - generic [ref=e312]: 보상 대상
+                    - listitem [ref=e313]:
+                      - generic [ref=e314]: "3"
+                      - generic [ref=e315]: 김하늘
+                      - generic [ref=e316]: 0개
+                    - listitem [ref=e317]:
+                      - generic [ref=e318]: "4"
+                      - generic [ref=e319]: 박도윤
+                      - generic [ref=e320]: 0개
+                    - listitem [ref=e321]:
+                      - generic [ref=e322]: "5"
+                      - generic [ref=e323]: 이서윤
+                      - generic [ref=e324]: 0개
+                    - listitem [ref=e325]:
+                      - generic [ref=e326]: "6"
+                      - generic [ref=e327]: 정민재
+                      - generic [ref=e328]: 0개
+            - generic [ref=e329]:
+              - generic [ref=e331]:
+                - generic [ref=e332]: 학생의 배움 단서
+                - generic [ref=e333]: 관찰을 기록할 때 참고해 보세요.
+              - generic [ref=e334]:
+                - generic [ref=e335]:
+                  - generic [ref=e336]: 이해의 순간
+                  - generic [ref=e337]: "01"
+                - generic [ref=e338]: 학생이 어떤 방법으로 개념을 이해했나요?
+              - generic [ref=e339]:
+                - generic [ref=e340]:
+                  - generic [ref=e341]: 함께 배우기
+                  - generic [ref=e342]: "02"
+                - generic [ref=e343]: 친구와 나눈 대화나 협력의 순간이 있었나요?
+              - generic [ref=e344]:
+                - generic [ref=e345]:
+                  - generic [ref=e346]: 다음 한 걸음
+                  - generic [ref=e347]: "03"
+                - generic [ref=e348]: 다음 수업에서 이어갈 작은 목표를 정해보세요.
+            - generic [ref=e349]:
+              - generic [ref=e350]:
+                - img [ref=e352]
+                - strong [ref=e355]: AI 초안은 시작점이에요
+              - paragraph [ref=e356]: 현재는 관찰 키워드를 바탕으로 만든 체험용 자동 분석입니다. 실제 생성형 AI 연동 전까지 초안을 직접 검토하고 다듬어 보내주세요.
+  - status

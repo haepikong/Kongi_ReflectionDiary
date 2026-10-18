@@ -1,0 +1,72 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - img [ref=e8]
+        - strong [ref=e11]: 배움의 온도
+      - generic [ref=e12]: 수업 뒤 5분, 내 배움을 만나는 시간
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]: MY LITTLE LEARNING JOURNAL
+        - heading "오늘 배움, 마음에 남기기" [level=1] [ref=e16]:
+          - text: 오늘 배움,
+          - text: 마음에 남기기
+        - paragraph [ref=e17]: 하루의 수업을 돌아보고, 서로의 성장을 응원해요.
+        - generic [ref=e18]:
+          - generic [ref=e19]: 오늘의 성찰
+          - generic [ref=e20]: 따뜻한 피드백
+          - generic [ref=e21]: 함께 성장
+      - img "손을 흔들며 반기는 해피콩 캐릭터" [ref=e24]
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - heading "누구로 들어오시나요?" [level=2] [ref=e27]
+        - paragraph [ref=e28]: 역할에 맞는 정보를 입력해 배움의 공간에 들어가세요.
+      - generic [ref=e29]: 체험용 코드가 입력창 아래에 안내되어 있어요
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - img [ref=e34]
+          - generic [ref=e37]:
+            - strong [ref=e38]: 학생으로 들어가기
+            - generic [ref=e39]: 학급 코드와 이름을 입력해요
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - generic [ref=e42]:
+              - generic [ref=e43]: 학급 코드
+              - textbox "학급 코드" [ref=e44]:
+                - /placeholder: "예: HAPPY24"
+            - generic [ref=e45]:
+              - generic [ref=e46]: 학번
+              - textbox "학번" [ref=e47]:
+                - /placeholder: "예: 01"
+            - generic [ref=e48]:
+              - generic [ref=e49]: 이름
+              - textbox "이름" [ref=e50]:
+                - /placeholder: 이름 입력
+          - button "학생 공간으로 들어가기" [ref=e51] [cursor=pointer]:
+            - text: 학생 공간으로 들어가기
+            - img [ref=e52]
+          - paragraph [ref=e54]: 체험용 학급 코드 HAPPY24 · 예시 01 김하늘
+          - alert [ref=e55]
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - img [ref=e59]
+          - generic [ref=e62]:
+            - strong [ref=e63]: 교사로 들어가기
+            - generic [ref=e64]: 교사용 접속 코드로 입장해요
+        - generic [ref=e65]:
+          - generic [ref=e67]:
+            - generic [ref=e68]: 접속 코드
+            - textbox "접속 코드" [ref=e69]:
+              - /placeholder: 교사 접속 코드
+          - button "교사 공간으로 들어가기" [ref=e70] [cursor=pointer]:
+            - text: 교사 공간으로 들어가기
+            - img [ref=e71]
+          - paragraph [ref=e73]: 체험용 교사 접속 코드 2468
+          - alert [ref=e74]
+    - contentinfo [ref=e75]:
+      - generic [ref=e76]: 배움의 온도 · 수업 성찰 노트
+      - generic [ref=e77]:
+        - img [ref=e78]
+        - text: 학생의 배움과 생각을 소중히 다뤄요
+  - status

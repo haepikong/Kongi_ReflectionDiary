@@ -1,0 +1,138 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - img [ref=e7]
+        - generic [ref=e10]:
+          - generic [ref=e11]: 배움의 온도
+          - generic [ref=e12]: LEARNING REFLECTION
+      - generic [ref=e13]:
+        - button "학생 화면" [ref=e14] [cursor=pointer]
+        - button "교사 화면" [ref=e15] [cursor=pointer]
+      - generic [ref=e16]: 학습 공간
+      - navigation [ref=e17]:
+        - button "나의 배움" [ref=e18] [cursor=pointer]:
+          - img [ref=e19]
+          - text: 나의 배움
+        - button "수업 피드백 새 소식" [ref=e24] [cursor=pointer]:
+          - img [ref=e25]
+          - text: 수업 피드백
+          - generic [ref=e28]: 새 소식
+        - button "성찰 기록" [ref=e29] [cursor=pointer]:
+          - img [ref=e30]
+          - text: 성찰 기록
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35]: SUNDAY · OCT 18
+          - strong [ref=e36]: 오늘도 한 뼘 자랐어요
+          - paragraph [ref=e37]:
+            - text: 매일의 작은 발견이
+            - text: 내일의 배움으로 이어집니다.
+        - generic [ref=e38]:
+          - generic [ref=e39]: 하늘
+          - generic [ref=e40]:
+            - strong [ref=e41]: 김하늘 학생
+            - generic [ref=e42]: 2학년 3반
+    - main [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - text: 배움의 온도
+          - generic [ref=e46]: /
+          - strong [ref=e47]: 나의 배움
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - img [ref=e50]
+            - text: 2026년 10월 18일 일요일
+          - button "알림" [ref=e53] [cursor=pointer]:
+            - img [ref=e54]
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]: MY LEARNING JOURNAL
+            - heading "김하늘 학생, 오늘도 잘 해냈어요" [level=1] [ref=e60]
+            - paragraph [ref=e61]: 오늘 배운 것을 돌아보고, 선생님의 따뜻한 피드백을 확인해 보세요.
+          - img [ref=e63]
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - generic [ref=e69]:
+                - img [ref=e71]
+                - generic [ref=e74]:
+                  - strong [ref=e75]: 선생님의 수업 피드백
+                  - generic [ref=e76]: 분수의 덧셈 · 오늘 오후 2:18
+                - generic [ref=e77]: 새 피드백
+              - generic [ref=e78]:
+                - generic [ref=e79]: 오늘은 통분이 낯설어도 그림으로 바꾸어 생각하며 끝까지 해결해 냈어요. 풀이를 친구에게 설명한 모습에서 개념을 자기 것으로 만들고 있다는 게 느껴졌습니다. 다음 시간에는 공통분모를 조금 더 빠르게 찾는 연습을 함께 해봐요.
+                - generic [ref=e80]:
+                  - img [ref=e81]
+                  - text: 오늘 오후 2:18
+                - generic [ref=e84]:
+                  - button "피드백 확인했어요" [ref=e85] [cursor=pointer]
+                  - generic [ref=e86]: 확인 버튼을 누르면 선생님께 알려드려요
+            - generic [ref=e87]:
+              - generic [ref=e88]:
+                - generic [ref=e89]:
+                  - generic [ref=e90]: 오늘의 성찰 일기
+                  - generic [ref=e91]: 배운 내용과 나의 생각을 편하게 적어보세요.
+                - generic [ref=e92]: 잠깐, 오늘을 돌아보면
+              - generic [ref=e93]: 오늘 수업에서 기억에 남는 순간은 무엇인가요?
+              - textbox "오늘 수업에서 기억에 남는 순간은 무엇인가요?" [ref=e94]:
+                - /placeholder: 새롭게 알게 된 점, 어려웠던 점, 다음 시간에 해보고 싶은 일을 적어보세요.
+                - text: 처음에는 분모가 달라서 어떻게 해야 할지 헷갈렸다. 그림을 그려 보니까 같은 크기로 나누는 게 보여서 문제를 풀 수 있었다. 친구에게 설명할 때 내가 알고 있는 걸 다시 확인할 수 있어서 좋았다.
+              - generic "오늘의 기분" [ref=e95]:
+                - button "✦뿌듯해요" [ref=e96] [cursor=pointer]
+                - button "?궁금해요" [ref=e97] [cursor=pointer]
+                - button "…조금 어려워요" [ref=e98] [cursor=pointer]
+                - button "○차분해요" [ref=e99] [cursor=pointer]
+              - generic [ref=e100]:
+                - button "일기 저장하기" [ref=e101] [cursor=pointer]
+                - generic [ref=e102]: 저장한 일기는 선생님과 나만 볼 수 있어요
+            - generic [ref=e103]:
+              - generic [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: 나의 배움 기록
+                  - generic [ref=e107]: 최근 수업에서 남긴 성찰 일기예요.
+                - generic [ref=e108]: 최근 기록
+              - generic [ref=e109]:
+                - generic [ref=e110]:
+                  - generic [ref=e111]: 오늘 오후 1:42 · 분수의 덧셈
+                  - generic [ref=e112]: 뿌듯해요
+                - generic [ref=e113]: 처음에는 분모가 달라서 어떻게 해야 할지 헷갈렸다. 그림을 그려 보니까 같은 크기로 나누는 게 보여서 문제를 풀 수 있었다. 친구에게 설명할 때 내가 알고 있는 걸 다시 확인할 수 있어서 좋았다.
+                - generic [ref=e114]:
+                  - img [ref=e115]
+                  - text: 선생님 확인을 기다리고 있어요
+          - complementary [ref=e118]:
+            - generic [ref=e119]:
+              - generic [ref=e120]:
+                - generic [ref=e121]: 오늘의 수업
+                - generic [ref=e122]: 10월 18일
+              - heading "분수의 덧셈" [level=3] [ref=e123]
+              - paragraph [ref=e124]: 이번 시간의 배움 주제 · 분모가 다른 분수
+              - generic [ref=e127]:
+                - generic [ref=e128]: 오늘의 배움 여정
+                - generic [ref=e129]: 3 / 4 활동
+            - generic [ref=e130]:
+              - generic [ref=e132]:
+                - generic [ref=e133]: 오늘의 배움 흐름
+                - generic [ref=e134]: 수업을 마치고 돌아보는 시간
+              - generic [ref=e135]:
+                - generic [ref=e136]:
+                  - generic [ref=e137]: 01 · 개념 만나기
+                  - generic [ref=e138]: 완료
+                - generic [ref=e139]: 분모가 다른 분수는 어떻게 더할까요?
+              - generic [ref=e140]:
+                - generic [ref=e141]:
+                  - generic [ref=e142]: 02 · 함께 풀어보기
+                  - generic [ref=e143]: 완료
+                - generic [ref=e144]: 그림과 공통분모를 활용해 문제를 풀었어요.
+              - generic [ref=e145]:
+                - generic [ref=e146]:
+                  - generic [ref=e147]: 03 · 나의 생각 정리
+                  - generic [ref=e148]: 진행 중
+                - generic [ref=e149]: 성찰 일기를 쓰며 오늘의 배움을 정리해요.
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - img [ref=e153]
+                - strong [ref=e156]: 작은 성찰이 큰 배움이 돼요
+              - paragraph [ref=e157]: 잘한 점과 어려웠던 점을 함께 적어보세요. 정답이 없어도 괜찮아요. 나만의 속도로 돌아보면 충분합니다.
+  - status
